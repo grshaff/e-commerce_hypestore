@@ -6,8 +6,8 @@ include("./order.php");
 require_once dirname(__FILE__) . '/Midtrans/Midtrans.php';
 // Set Your server key
 // can find in Merchant Portal -> Settings -> Access keys
-Config::$serverKey = 'SB-Mid-server-SXs9SazODKvZ7lsU6b-4AUgl';
-Config::$clientKey = 'SB-Mid-client-kyPbmpsDUnoqZHV8';
+Config::$serverKey = '<enter ur own key>';
+Config::$clientKey = '<enter ur own key>';
 
 // non-relevant function only used for demo/example purpose
 printExampleWarningMessage();
