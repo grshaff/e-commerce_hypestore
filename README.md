@@ -6,3 +6,9 @@ HYPESTORE is an E-Commerce website focusing on selling shoes products from known
 - ./Admin/index.php is the dashboard page for HYPESTORE admin side
 - mystore.sql is the database used for CRUD
 
+## References
+https://getbootstrap.com
+https://www.w3schools.com
+https://github.com/Midtrans/midtrans-php
+https://craftpip.github.io/jquery-confirm/
+
